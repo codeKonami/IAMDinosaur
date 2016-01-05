@@ -7,7 +7,7 @@ var Scanner = require ('./Scanner');
 
 // COLOR DEFINITIONS
 // This is the Dino's colour, also used by Obstacles.
-var COLOR_DINOSAUR = '535353';
+var COLOR_DINOSAUR = '494949';
 
 
 var GameManipulator = {
